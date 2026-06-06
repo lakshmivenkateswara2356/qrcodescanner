@@ -9,7 +9,7 @@ export default function QRCodeCard() {
       width: 300,
       height: 300,
 
-      data: "http://localhost:5173/profile",
+      data: "https://qrcodescanner-ashen.vercel.app/profile",
 
       backgroundOptions: {
         color: "#000000",
